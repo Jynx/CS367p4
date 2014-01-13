@@ -1,17 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  (WebDictionary.java)
-// Files:            (BSTSortedList.java)
-// Semester:         CS302 Spring 2013
-//
-// Author:           (Steven Volocyk Sevenex@gmail.com)
-// CS Login:         (volocyk)
-// Lecturer's Name:  (Jim Skrentny)
-// Lab Section:      (Lecture 2, 204 Educational Sciences)
-//                   
-// Credits:          
-//////////////////////////// 80 columns wide /////////////////////////////////
-
 import java.util.Iterator;
 /**
  * This class is designed to create a Binary Search Tree/Sorted List
