@@ -1,18 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:            (Web Dictionary)
-// Files:            (WebDictionary.java BSTSortedList.java Acronym.java
-//					  BSTSortedListIterator.java)                
-// Semester:         CS302 Spring 2013
-//
-// Author:           (Steven Volocyk Sevenex@gmail.com)
-// CS Login:         (volocyk)
-// Lecturer's Name:  (Jim Skrentny)
-// Lab Section:      (Lecture 2, 204 Educational Sciences)
-//                   
-// Credits:          
-//////////////////////////// 80 columns wide //////////////////////////////////
-
 import java.util.*;
 import java.io.*;
 
